@@ -12,3 +12,7 @@ Olá! esse diretório está reservado para os meus arquivos referente a cursos i
 - Bool
 - Int
 - Double
+- Duration
+- DataTime
+- Enum
+- String
