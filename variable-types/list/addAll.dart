@@ -1,3 +1,5 @@
+//addAll = juntar/conctenar duas listas, vai para o final
+
 void main() {
   var lista = ["Gabriel", "Leticia", "Alencar"];
   print(lista);

@@ -1,7 +1,7 @@
 void main() {
   //                0   1   2   3
   List<int> list = [10, 15, 16, 20];
-  //List list; tipo dinamico
+  //List list; Erro --> Lista nulla
   print(list[0]);
 
   //List<int> list = [10, "abc", {"key": "valor"}];

@@ -1,3 +1,5 @@
+//remove = remover items/valoes de uma lista passando o indice
+
 void main() {
   var lista = ["Gabriel", "Leticia", "Alencar"];
 
