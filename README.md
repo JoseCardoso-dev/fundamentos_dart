@@ -16,3 +16,5 @@ Olá! esse diretório está reservado para os meus arquivos referente a cursos i
 - DataTime
 - Enum
 - String
+- List 
+- Map
