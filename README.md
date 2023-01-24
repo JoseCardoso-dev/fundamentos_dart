@@ -20,7 +20,12 @@ Olá! esse diretório está reservado para os meus arquivos referente a cursos i
 - Map
 - Stream
 
-### Tipos de dados
+### Operadores Lógicos
+
+- And
+- Or
+
+### Operadores Condicionais
 
 - If Else
 - Switch Case
