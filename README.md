@@ -18,3 +18,4 @@ Olá! esse diretório está reservado para os meus arquivos referente a cursos i
 - String
 - List 
 - Map
+- Stream
