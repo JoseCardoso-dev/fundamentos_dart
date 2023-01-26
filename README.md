@@ -30,3 +30,13 @@ Olá! esse diretório está reservado para os meus arquivos referente a cursos i
 - If Else
 - Switch Case
 - Operador Ternário
+
+### Funções
+
+-  Introdução
+- Sync
+- Async
+- Void
+- Return
+- Recursive
+- Callback
