@@ -40,3 +40,12 @@ Olá! esse diretório está reservado para os meus arquivos referente a cursos i
 - Return
 - Recursive
 - Callback
+
+### Repetições
+
+-  Introdução
+- For
+- ForEach
+- ForIn
+- While
+- DoWhile
